@@ -58,15 +58,11 @@ const om = {
         "React",
         "Node.js",
         "Express.js",
-        "PostgreSQL",
-        "System Design"
+        "PostgreSQL"
     ],
 
     interests: [
         "Full Stack Development",
-        "UI/UX",
-        "Backend Development",
-        "Cloud Deployment"
     ],
 
     goal: "Build scalable software that solves real-world problems."
@@ -80,7 +76,6 @@ const om = {
 - ⚡ Improving performance and user experience
 - 🔐 Implementing secure authentication systems
 - ☁ Deploying modern cloud-based applications
-- 📚 Exploring software architecture and system design
 - ---
 
 # 🛠 Tech Stack
