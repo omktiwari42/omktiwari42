@@ -186,37 +186,9 @@ React • Vite • Node.js • Express.js • PostgreSQL
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://myhms.online">
-<img src="https://img.shields.io/badge/Live%20Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
-
-## 💳 Upcoming Projects
-
-### 🚀 Digital Payment Platform
-
-A secure payment platform inspired by modern digital wallets.
-
-Planned Features
-
-- QR Payments
-- Bank Transfer
-- Wallet System
-- Transaction History
-- Rewards
-- AI Insights
-- Expense Analytics
-
-Coming Soon...
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 # 🛠 Tech Highlights
