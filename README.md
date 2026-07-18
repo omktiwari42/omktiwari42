@@ -39,35 +39,8 @@ Building Scalable Web Applications 🚀
 </a>
 
 </p>
+
 ---
-
-## 👨‍💻 About Me
-
-```javascript
-const om = {
-    name: "Om Kumar Tiwari",
-    role: "Full Stack Developer",
-    education: "B.Tech Computer Science Engineering",
-    location: "India 🇮🇳",
-
-    currentlyBuilding: [
-        "Hospital Management System"
-    ],
-
-    currentlyLearning: [
-        "React",
-        "Node.js",
-        "Express.js",
-        "PostgreSQL"
-    ],
-
-    interests: [
-        "Full Stack Development",
-    ],
-
-    goal: "Build scalable software that solves real-world problems."
-};
-```
 
 ### 🚀 Current Focus
 
