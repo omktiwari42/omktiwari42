@@ -141,24 +141,29 @@ const om = {
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omktiwari42&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omktiwari42&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=445" />
+  <a href="https://github.com/omktiwari42">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omktiwari42&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  </a>
+
+  <a href="https://github.com/omktiwari42">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omktiwari42&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=omktiwari42&theme=github-dark-blue&hide_border=true" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=omktiwari42&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omktiwari42&theme=github-dark&hide_border=true&radius=10" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omktiwari42&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omktiwari42&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omktiwari42&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
