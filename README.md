@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Om Kumar Tiwari</h1>
 
-<!--
-**omktiwari42/omktiwari42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Developer | B.Tech CSE Student | Building Professional Web Applications</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Passionate about Full Stack Development
+- 🚀 Currently building a professional Hospital Management System
+- 🌱 Learning Advanced Backend Development
+- 🔥 Interested in React, Node.js, Express, PostgreSQL and System Design
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+⭐ Thanks for visiting my profile!
