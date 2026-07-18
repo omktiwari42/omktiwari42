@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Om Kumar Tiwari</h1>
 
-<h3 align="center">🚀 Full Stack Developer | B.Tech CSE Student | India 🇮🇳</h3>
+<h3 align="center">
+💻 Full Stack Developer • React • Node.js • PostgreSQL
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;Node.js+Developer;Building+Professional+Web+Applications;Hospital+Management+System+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL;Building+Modern+Full-Stack+Solutions;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=omktiwari42&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=omktiwari42&label=Profile%20Views&style=for-the-badge&color=1F6FEB"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/omktiwari42">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://github.com/omktiwari42">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -26,46 +27,53 @@
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 💻 Passionate Full Stack Developer
-- 🚀 Currently building a Professional Hospital Management System
-- 🌱 Learning Advanced Backend Development
-- ❤️ Love building real-world projects
-- ⚡ Goal: Become a Top Software Engineer
+- 🚀 Building scalable web applications
+- 🌱 Currently learning Backend Architecture & System Design
+- ⚡ Love creating real-world software solutions
+- 🎯 Goal: Become a Top Software Engineer
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Current Focus
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ⚛ React + Vite
+- 🟢 Node.js + Express.js
+- 🐘 PostgreSQL
+- 🔐 Authentication & Security
+- 💳 Payment Gateway Integration
+- ☁ Cloud Deployment
+- 📱 Responsive UI/UX
 
 ---
 
-# 📊 GitHub Stats
+# 🛠️ Tech Stack
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omktiwari42&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omktiwari42&layout=compact&theme=tokyonight"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,postgres,git,github,vscode,postman,linux&perline=7"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=omktiwari42&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omktiwari42&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omktiwari42&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -73,33 +81,88 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=omktiwari42&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=omktiwari42&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📌 Featured Project
+# 📈 Contribution Activity
 
-## 🏥 Hospital Management System
+<p align="center">
 
-A professional Hospital Management System built using
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omktiwari42&theme=tokyo-night&hide_border=true"/>
 
-- React
-- Node.js
-- Express.js
-- PostgreSQL
-- JWT Authentication
-- OTP Verification
-- Razorpay Payment Integration
-- Responsive Dashboard
-- Modern UI
-
-Repository:
-
-👉 https://github.com/omktiwari42/hospital-management-system-HMS-
+</p>
 
 ---
 
+# 🏥 Featured Project
+
+## Hospital Management System (HMS)
+
+A modern Hospital Management System built with the latest web technologies.
+
+### ✨ Features
+
+- 👨‍⚕ Doctor Management
+- 🧑‍🤝‍🧑 Patient Management
+- 📅 Appointment Booking
+- 💊 Prescriptions
+- 🧾 Billing System
+- 💳 Razorpay Payment Integration
+- 🔐 JWT Authentication
+- 📩 OTP Verification
+- 📱 Responsive Dashboard
+- 🌙 Dark Mode
+
+### 🛠 Built With
+
+- React
+- Vite
+- Node.js
+- Express.js
+- PostgreSQL
+- JWT
+- Razorpay
+
+### 🔗 Repository
+
+⭐ https://github.com/omktiwari42/hospital-management-system-HMS-
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/omktiwari42">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> **"Great software is built through continuous learning, thoughtful design, and consistent improvement."**
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories.
+
+</p>
+
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+
+Thanks for visiting! 🚀
+
 </h3>
