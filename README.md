@@ -76,27 +76,6 @@ Building Scalable Web Applications 🚀
 
 ---
 
-# 💼 Professional Skills
-
-✔ Responsive Web Development
-
-✔ REST API Development
-
-✔ Authentication & Authorization
-
-✔ PostgreSQL Database Design
-
-✔ Payment Gateway Integration
-
-✔ Git & GitHub Workflow
-
-✔ Clean Code & Reusable Components
-
-✔ Performance Optimization
-
-✔ Modern UI/UX Development
----
-
 # 📈 Development Summary
 
 | Metric | Status |
