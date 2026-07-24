@@ -101,9 +101,6 @@ Building Scalable Web Applications 🚀
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://myhms.online">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 
 </p>
 
