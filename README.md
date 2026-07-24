@@ -76,19 +76,6 @@ Building Scalable Web Applications 🚀
 
 ---
 
-# 📈 Development Summary
-
-| Metric | Status |
-|---------|--------|
-| 💻 Primary Stack | React • Node.js • PostgreSQL |
-| 🚀 Focus | Full Stack Development |
-| 🏗️ Current Project | Hospital Management System |
-| 🌱 Learning | System Design & Cloud |
-| 🔥 Open Source | Growing |
-| 🎯 Goal | Software Engineer |
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
