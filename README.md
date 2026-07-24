@@ -42,15 +42,6 @@ Building Scalable Web Applications 🚀
 
 ---
 
-### 🚀 Current Focus
-
-- 🔭 Developing production-ready full-stack applications
-- 🌱 Learning scalable backend architecture
-- ⚡ Improving performance and user experience
-- 🔐 Implementing secure authentication systems
-- ☁ Deploying modern cloud-based applications
-- ---
-
 # 🛠 Tech Stack
 
 ### Languages
