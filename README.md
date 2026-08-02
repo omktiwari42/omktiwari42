@@ -1,3 +1,21 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Om%20Kumar%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20•%20Node.js%20•%20PostgreSQL&descAlignY=60&descSize=22"/>
+</p>
+
+<h2 align="center">
+Building Scalable Web Applications 🚀
+</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+•+Node.js+•+PostgreSQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=omktiwari42&label=Profile%20Views&style=for-the-badge&color=1F6FEB"/>
+</p>
+
+---
+
 # Om Kumar Tiwari
 
 I build software. Mostly because I enjoy solving real-world problems and turning ideas into scalable applications.
@@ -7,7 +25,7 @@ I build software. Mostly because I enjoy solving real-world problems and turning
 
 ---
 
-## 🚀 What I work on
+## 🚀 What I Work On
 
 - Full Stack Web Applications
 - REST APIs & Backend Systems
@@ -30,24 +48,12 @@ I build software. Mostly because I enjoy solving real-world problems and turning
 
 ---
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omktiwari42&theme=github_dark" width="100%">
-</p>
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omktiwari42&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omktiwari42&theme=github-dark-blue&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omktiwari42&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omktiwari42&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-</p>
 ---
 
 ## 🌱 Currently
@@ -56,24 +62,6 @@ I build software. Mostly because I enjoy solving real-world problems and turning
 - Learning advanced backend architecture
 - Improving React performance & UI/UX
 - Exploring Cloud Deployment & DevOps
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Om%20Kumar%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20•%20Node.js%20•%20PostgreSQL&descAlignY=60&descSize=22"/>
-</p>
-
-<h2 align="center">
-Building Scalable Web Applications 🚀
-</h2>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+•+Node.js+•+PostgreSQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=omktiwari42&label=Profile%20Views&style=for-the-badge&color=1F6FEB"/>
-</p>
 
 ---
 
