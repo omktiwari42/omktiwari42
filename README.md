@@ -30,21 +30,26 @@ I build software. Mostly because I enjoy solving real-world problems and turning
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.hackclub.dev/api?username=omktiwari42&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=omktiwari42&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omktiwari42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omktiwari42&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omktiwari42&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=omktiwari42&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omktiwari42&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omktiwari42&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omktiwari42&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omktiwari42&theme=tokyonight" width="49%" />
+</p>
 ---
 
 ## 🌱 Currently
