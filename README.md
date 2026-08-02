@@ -1,3 +1,61 @@
+# Om Kumar Tiwari
+
+I build software. Mostly because I enjoy solving real-world problems and turning ideas into scalable applications.
+
+Full Stack Developer • React • Node.js • PostgreSQL  
+Linux user (Arch, btw)
+
+---
+
+## What I work on
+
+- Full Stack Web Applications
+- REST APIs & Backend Systems
+- Authentication & Payment Integrations
+- Modern React Dashboards
+- Database Design & Performance Optimization
+- Clean, scalable, and maintainable code
+
+---
+
+## Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+
+Also:
+JavaScript, HTML, CSS, Git, Vite, Postman
+
+---
+
+## Stats (always improving)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omktiwari42&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omktiwari42&layout=compact&theme=tokyonight" width="49%" />
+</p>
+
+---
+
+## Currently
+
+- Building scalable Full Stack applications
+- Learning advanced backend architecture
+- Improving React performance & UI/UX
+- Exploring cloud deployment and DevOps
+
+---
+
+## Elsewhere
+
+- GitHub: https://github.com/omktiwari42
+- Portfolio: *(Coming Soon)*
+
+---
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Om%20Kumar%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20•%20Node.js%20•%20PostgreSQL&descAlignY=60&descSize=22"/>
 </p>
@@ -20,7 +78,7 @@ Building Scalable Web Applications 🚀
 
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-181717?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react"/>
 
 <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js"/>
 
@@ -34,7 +92,7 @@ Building Scalable Web Applications 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:omktiwari42@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -84,10 +142,9 @@ Building Scalable Web Applications 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your-omktiwari42@gmail.com">
+<a href="mailto:omktiwari42@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 
 </p>
 
@@ -95,7 +152,7 @@ Building Scalable Web Applications 🚀
 
 # ✨ Favorite Quote
 
-> **"First, solve the problem. Then, write the code."** — Om Tiwari 
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
 ---
 
