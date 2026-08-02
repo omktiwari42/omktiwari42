@@ -45,9 +45,7 @@ Building Scalable Web Applications 🚀
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omktiwari42&theme=github-dark-blue&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omktiwari42&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+
 
 ---
 
