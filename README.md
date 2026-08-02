@@ -2,12 +2,12 @@
 
 I build software. Mostly because I enjoy solving real-world problems and turning ideas into scalable applications.
 
-Full Stack Developer • React • Node.js • PostgreSQL  
-Linux user (Arch, btw)
+**Full Stack Developer • React • Node.js • PostgreSQL**  
+**Linux user (Arch, btw)**
 
 ---
 
-## What I work on
+## 🚀 What I work on
 
 - Full Stack Web Applications
 - REST APIs & Backend Systems
@@ -18,7 +18,7 @@ Linux user (Arch, btw)
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -26,33 +26,33 @@ Linux user (Arch, btw)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 
-Also:
-JavaScript, HTML, CSS, Git, Vite, Postman
+**Also:** JavaScript • HTML • CSS • Git • Vite • Postman
 
 ---
 
-## Stats (always improving)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omktiwari42&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omktiwari42&layout=compact&theme=tokyonight" width="49%" />
+  <img height="180em" src="https://github-readme-stats.hackclub.dev/api?username=omktiwari42&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=omktiwari42&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omktiwari42&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omktiwari42&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## Currently
+## 🌱 Currently
 
 - Building scalable Full Stack applications
 - Learning advanced backend architecture
 - Improving React performance & UI/UX
-- Exploring cloud deployment and DevOps
-
----
-
-## Elsewhere
-
-- GitHub: https://github.com/omktiwari42
-- Portfolio: *(Coming Soon)*
+- Exploring Cloud Deployment & DevOps
 
 ---
 
@@ -72,63 +72,37 @@ Building Scalable Web Applications 🚀
 <img src="https://komarev.com/ghpvc/?username=omktiwari42&label=Profile%20Views&style=for-the-badge&color=1F6FEB"/>
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-181717?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/omktiwari42">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:omktiwari42@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Skills
 
 ### Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 ### Frontend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=react,vite"/>
 </p>
 
 ### Backend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Database
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=postgres"/>
 </p>
 
 ### Tools
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
 </p>
 
@@ -152,13 +126,13 @@ Building Scalable Web Applications 🚀
 
 # ✨ Favorite Quote
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+> **"First, solve the problem. Then, write the code."**
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
 **If you like my projects, don't forget to ⭐ star the repositories.**
 
