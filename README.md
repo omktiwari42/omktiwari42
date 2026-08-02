@@ -4,6 +4,7 @@
 
 <h2 align="center">
 Building Scalable Web Applications 🚀
+  **Linux user (Arch, btw)**
 </h2>
 
 <p align="center">
@@ -13,15 +14,6 @@ Building Scalable Web Applications 🚀
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=omktiwari42&label=Profile%20Views&style=for-the-badge&color=1F6FEB"/>
 </p>
-
----
-
-# Om Kumar Tiwari
-
-I build software. Mostly because I enjoy solving real-world problems and turning ideas into scalable applications.
-
-**Full Stack Developer • React • Node.js • PostgreSQL**  
-**Linux user (Arch, btw)**
 
 ---
 
