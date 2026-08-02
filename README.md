@@ -2,10 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Om%20Kumar%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20•%20Node.js%20•%20PostgreSQL&descAlignY=60&descSize=22"/>
 </p>
 
-<h2 align="center">
-Building Scalable Web Applications 🚀
-</h2>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+•+Node.js+•+PostgreSQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
