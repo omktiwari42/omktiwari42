@@ -4,7 +4,6 @@
 
 <h2 align="center">
 Building Scalable Web Applications 🚀
-  **Linux user (Arch, btw)**
 </h2>
 
 <p align="center">
