@@ -34,11 +34,15 @@ I build software. Mostly because I enjoy solving real-world problems and turning
 ## 🏆 GitHub
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omktiwari42&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omktiwari42&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omktiwari42&theme=github-dark&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=omktiwari42&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omktiwari42&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 </p>
 ---
 
