@@ -67,13 +67,13 @@ Building Scalable Web Applications 🚀
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,dart"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite"/>
+<img src="https://skillicons.dev/icons?i=react,vite,flutter"/>
 </p>
 
 ### Backend
