@@ -47,10 +47,6 @@
 
 ## 🌱 Currently
 
----
-
-## 🌱 Currently
-
 - Building scalable Full Stack applications
 - Learning advanced backend architecture
 - Improving React performance & UI/UX
