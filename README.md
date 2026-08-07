@@ -106,8 +106,7 @@
 
 # ✨ Favorite Quote
 
-> **"First, solve the problem. Then, write the code."**
-
+> * "Code is temporary. Great problem-solving skills are permanent."
 ---
 
 <p align="center">
