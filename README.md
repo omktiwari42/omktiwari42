@@ -12,16 +12,16 @@
 
 ---
 
-## 🚀 What I Work On
+🚀 What I Work On
 
-- Full Stack Web Applications
-- REST APIs & Backend Systems
-- Authentication & Payment Integrations
-- Modern React Dashboards
-- Database Design & Performance Optimization
-- Clean, scalable, and maintainable code
-
----
+- 🌐 Full-Stack Web Applications
+- ⚙️ REST APIs & Backend Systems
+- 🔐 Authentication & Payment Integrations
+- 📊 Modern React Dashboards
+- 🗄️ Database Design & Optimization
+- 🧩 Clean & Scalable Code
+  
+--
 
 ## 💻 Tech Stack
 
