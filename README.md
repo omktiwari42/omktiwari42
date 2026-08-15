@@ -33,15 +33,6 @@
 
 **Also:** JavaScript • HTML • CSS • Git • Vite • Postman
 
----
-
-## 📊 GitHub
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omktiwari42&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-
 
 ---
 
