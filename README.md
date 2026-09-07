@@ -93,19 +93,4 @@
 
 </p>
 
----
 
-# ✨ Favorite Quote
-
-> * "Code is temporary. Great problem-solving skills are permanent."
----
-
-<p align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-**If you like my projects, don't forget to ⭐ star the repositories.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=footer"/>
-
-</p>
